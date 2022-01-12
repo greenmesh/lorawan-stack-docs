@@ -100,7 +100,7 @@ Yields the data in `decoded_payload` on a data uplink message:
     "frm_payload": "DLIEgPeu",
     "decoded_payload": {
       "battery": 3250,
-      "event": "button",
+      "event": "setup",
       "light": 1152,
       "temperature": -21.3
     },
